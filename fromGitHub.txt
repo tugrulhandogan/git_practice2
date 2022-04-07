@@ -1,0 +1,5 @@
+This is an awesome file i added directly from Github.com
+And now i am about to commit directly to Github.com remote reporsitory
+This is not something we would do normally
+We are just trying simulate a situation where remote repository history is ahead of local reository history
+in plain english remote ohas one additional commit that local does not have
